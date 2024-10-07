@@ -1,1 +1,30 @@
-/*  your css code here. If applicable */
+.container {
+	widows:1100px;
+}
+
+.imageContainer {
+	background-color:lavender;
+	padding:10px;
+	
+}
+.ttt {
+	border:1px solid black;
+	border-collapse:collapse;
+	text-align:center;
+	
+}
+td {
+	border:1px solid black;
+	padding:8px
+	
+}
+td:first-child, td:last-child {
+	width:200px;
+}
+td:nth-child(2) {
+	width:600px:
+}
+
+
+
+
